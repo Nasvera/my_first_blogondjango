@@ -25,7 +25,7 @@ SECRET_KEY = 'cue4(^a=z(=c4dh00iuctyop#ltj9dx3mvih-&hk9*z8lj*z_-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [nasvera.pythonanywhere.com]
+ALLOWED_HOSTS = ['nasvera.pythonanywhere.com']
 
 
 
